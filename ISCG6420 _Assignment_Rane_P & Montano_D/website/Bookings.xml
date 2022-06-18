@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<BookingList>
+    <Booking>
+        <Reference>B01</Reference>
+        <Boat>Tere Boat</Boat>
+        <Date>2022-06-17</Date>
+        <Time>10:00am</Time>
+        <Seat>A1</Seat>
+        <Person>John Doe</Person> 
+        <Food>null</Food>
+        <Total>65</Total>
+    </Booking>
+    <Booking>
+        <Reference>B02</Reference>
+        <Boat>Tere Boat</Boat>
+        <Date>2022-06-17</Date>
+        <Time>10:00am</Time>
+        <Seat>A2</Seat>
+        <Person>Jessica Ho</Person> 
+        <Food>null</Food>
+        <Total>70</Total>
+    </Booking>
+    <Booking>
+        <Reference>B03</Reference>
+        <Boat>Tere Boat</Boat>
+        <Date>2022-06-17</Date>
+        <Time>10:00am</Time>
+        <Seat>A3</Seat>
+        <Person>Mike Thompson</Person> 
+        <Food>null</Food>
+        <Total>90</Total>
+    </Booking>
+
+</BookingList>
